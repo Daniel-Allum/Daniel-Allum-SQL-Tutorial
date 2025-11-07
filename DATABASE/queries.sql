@@ -86,3 +86,20 @@
 
 -- DELETE from students
 --     Where lastname = 'Simpson';
+
+-- SELECT count(id), firstname
+--     from Students
+--     group by firstname;
+
+-- SELECT sum(mark), subject
+--     FROM Marks
+--     GROUP BY subject;
+
+-- SELECT AVG(mark), subject
+--     FROM Marks
+--     GROUP BY subject;
+
+-- SELECT count(id), lastname
+--     FROM Students
+--     GROUP BY lastname;
+
