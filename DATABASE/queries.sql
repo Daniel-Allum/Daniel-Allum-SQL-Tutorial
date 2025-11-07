@@ -58,3 +58,19 @@
 
 -- SELECT subject, mark FROM Marks
 --     WHERE mark >= '50';
+
+-- UPDATE Students
+--     SET firstname = 'Nick'
+--     WHERE id = 4;
+
+-- UPDATE Marks
+--     SET subject = 'Maths Advanced'
+--     WHERE subject = 'Maths';
+
+-- UPDATE Students
+--     SET lastname = 'Simpson'
+--     WHERE id = 10;
+
+-- UPDATE MARKS
+--     SET subject = 'English Standard'
+--     WHERE subject = 'English';
