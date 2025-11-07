@@ -74,3 +74,15 @@
 -- UPDATE MARKS
 --     SET subject = 'English Standard'
 --     WHERE subject = 'English';
+
+-- DELETE FROM Students
+--     Where id = 4;
+
+-- INSERT INTO Students(firstname, lastname, dob)
+--             VALUES ('Bobby', 'Bob', '3/1/2008')
+
+-- DELETE from Marks
+--     where mark < 25;
+
+-- DELETE from students
+--     Where lastname = 'Simpson';
